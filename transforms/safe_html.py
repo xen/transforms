@@ -2,7 +2,7 @@ from sgmllib import SGMLParser, SGMLParseError
 import re
 from cgi import escape
 
-from ..utils import safeToInt
+from .utils import safeToInt
 from .safe_html_utils import *
 
 class IllegalHTML(Exception):
