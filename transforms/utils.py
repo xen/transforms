@@ -6,7 +6,7 @@ class TransformException(Exception):
 
 
 # logging function
-logger = logging.getLogger('PortalTransforms')
+logger = logging.getLogger("PortalTransforms")
 
 
 def log(message, severity=logging.DEBUG):
