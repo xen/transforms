@@ -14,7 +14,7 @@ setup(
     zip_safe=False,
     # install_requires=[
     # ],
-    license='UNKNOWN',
+    license='MIT',
     classifiers=[
         'Intended Audience :: Developers',
         'Programming Language :: Python',
